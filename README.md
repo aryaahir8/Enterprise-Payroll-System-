@@ -1,4 +1,4 @@
-Enterprise Payroll System
+# Enterprise Payroll System
 A COBOL-based Payroll Processing System designed to calculate employee pay and generate payroll reports using VSAM and sequential file processing.
 
 System Overview
